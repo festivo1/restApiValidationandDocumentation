@@ -1,0 +1,13 @@
+com\rest\restfulwebservices\helloworld\HelloWorldBean.class
+com\rest\restfulwebservices\user\exception\CustomizedResponseEntityExceptionHandler.class
+com\rest\restfulwebservices\helloworld\HelloWorldController.class
+com\rest\restfulwebservices\config\SwaggerConfig.class
+com\rest\restfulwebservices\filtering\SomeBean.class
+com\rest\restfulwebservices\user\UserDaoService.class
+com\rest\restfulwebservices\user\UserResource.class
+com\rest\restfulwebservices\user\exception\ExceptionResponse.class
+com\rest\restfulwebservices\user\User.class
+com\rest\restfulwebservices\filtering\FilteringController.class
+com\rest\restfulwebservices\config\Config.class
+com\rest\restfulwebservices\user\UserNotFoundException.class
+com\rest\restfulwebservices\RestfulWebServicesApplication.class
